@@ -1,0 +1,73 @@
+{
+    "name": "Mystic-Nebula-vscode-light-theme",
+    "displayName": "Mystic-Nebula-vsc-Light-Theme",
+    "description": "Mystic Nebula: A beautiful and sophisticated lighting theme with balanced contrasts and vibrant accents to enhance the viewing experience.",
+    "version": "1.0.0",
+    "publisher": "rmc8",
+    "author": {
+        "name": "Mystic-Nebula"
+    },
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#fffcf4",
+        "theme": "light"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "mystic-nebula",
+        "light",
+        "theme",
+        "eye",
+        "sight",
+        "protect",
+        "care",
+        "relax",
+        "comfortable",
+        "soft",
+        "nature",
+        "health",
+        "day",
+        "sun",
+        "atom",
+        "one",
+        "material",
+        "github",
+        "vue",
+        "react",
+        "java",
+        "ant",
+        "webstorm",
+        "idea"
+    ],
+    "bugs": {
+        "url": "https://github.com/rmc8/mystic-nebula-light-theme-color-theme/issues",
+        "email": "kmyashi@rmc-8.com"
+    },
+    "homepage": "https://github.com/rmc8/mystic-nebula-light-theme-color-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rmc8/mystic-nebula-light-theme-color-theme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mystic Nebula VSC Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/mystic-nebula-light-theme-color-theme.json"
+            }
+        ]
+    },
+    "badges": [
+        {
+            "url": "https://img.shields.io/visual-studio-marketplace/v/kmyashi.mystic-nebula-light-theme-color-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items/kmyashi.mystic-nebula-light-theme-color-theme",
+            "description": "[WIP]"
+        }
+    ]
+}
